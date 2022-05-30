@@ -1,0 +1,4 @@
+mongodb+srv://Dwarikadhish:<password>@cluster0.1urh8.mongodb.net/test
+$1$No1ZPKca$ntAZxH0Qoc0yBDwN99qaM/
+ https://letsencrypt.org/certs/lets-encrypt-r3.pem
+ https://www.mongodb.com/community/forums/t/keep-getting-serverselectiontimeouterror/126190
